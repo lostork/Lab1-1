@@ -1,8 +1,5 @@
 package com.lab1;
 
-import java.lang.reflect.Executable;
-import java.util.HashMap;
-import java.util.LinkedList;
 import java.util.Map;
 import java.util.TreeMap;
 
